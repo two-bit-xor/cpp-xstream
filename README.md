@@ -1,2 +1,12 @@
 # cpp-xstream
-A websocket cryptocurrency exchange library written in C++
+
+A websocket cryptocurrency exchange library written in C++.
+
+cpp-xstream is a C++ library providing a simple and consistent streaming API for interacting with cryptocurrency exchanges via WebSocket.
+
+It takes inspiration from the XChange-stream library providing new interfaces for the exchanges' streaming APIs. Users can subscribe for live updates via reactive streams of RxCpp library.
+
+Like the XChange-stream library, cpp-xstream will provide exchange websocket integration, exchange standardization and provide a websocket endpoint.
+
+This library will only integrate with exchanges that have a standard websocket API available.
+
