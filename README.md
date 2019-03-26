@@ -10,3 +10,6 @@ Like the XChange-stream library, cpp-xstream will provide exchange websocket int
 
 This library will only integrate with exchanges that have a standard websocket API available.
 
+## What is supported
+
+cpp-xstream will support all cryptocurrency exchanges that provide a websocket API. 
